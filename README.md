@@ -42,5 +42,4 @@ Users can:
 _Screenshots of the UI will be added separately._
 
 ## 🙋‍♂️ Created by
-
-Your Name Apoorva
+Apoorva
